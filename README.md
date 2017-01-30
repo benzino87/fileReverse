@@ -6,6 +6,4 @@
 Reads in a file, reverses the data, and writes data to a desired file name
 
 ###Running the program
-'''bash
-./reverse INPUT_FILENAME OUTPUT_FILENAME
-'''
+`./reverse INPUT_FILENAME OUTPUT_FILENAME`
